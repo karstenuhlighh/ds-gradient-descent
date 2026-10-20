@@ -2,6 +2,19 @@
 
 The goal of almost any machine learning model is to find the parameters that minimize a cost function. Gradient descent is the workhorse method for doing that. This repo takes gradient descent apart at a granular level: you read code that performs each step, see what the optimization looks like visually, write the algorithm yourself from scratch, and finish with a small classification example. Linear regression is the running example, but the method is the same one used to train far larger models.
 
+## Deutsche Fassung
+
+Alle Notebooks gibt es zusätzlich auf Deutsch, jeweils mit der Endung `_DE`. Die Texte stammen aus der offiziellen deutschen Fassung von neuefische (`ds-gradientenabstieg-de`), der Code aus dieser aktuellen englischen Fassung. Die Code-Kommentare sind überwiegend englisch geblieben.
+
+| Notebook | Deutsch |
+|---|---|
+| 1 Gradientenabstieg | [1_gradient_descent_DE.ipynb](1_gradient_descent_DE.ipynb) |
+| 2 Visualisierung, Momentum | [2_gradient_descent_visualization_DE.ipynb](2_gradient_descent_visualization_DE.ipynb) |
+| 3 Code-along: eigener Gradientenabstieg | [3_gradient_descent_codealong_DE.ipynb](3_gradient_descent_codealong_DE.ipynb) |
+| 4 Bonus: Klassifikation, SGD, Mini-Batch | [4_bonus_classification_DE.ipynb](4_bonus_classification_DE.ipynb) |
+
+Zusammengestellt mit KI-Unterstützung (Claude), nicht offiziell von neuefische. Bei Abweichungen gilt die englische Fassung.
+
 ## Learning Objectives
 
 By the end of this repository, you should be able to:
